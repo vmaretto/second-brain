@@ -1,12 +1,12 @@
 ---
 title: "Progetto SWITCH"
 date: "2025-06-01"
-tags: [europa, sostenibilità, food-systems, data-lake]
+tags: [europa, sostenibilità, food-systems, switch, horizon]
 ---
 
-# SWITCH - Sustainable Food Systems
+# SWITCH — Sustainable Food Systems
 
-Progetto europeo per sistemi alimentari sostenibili. Uno dei progetti più ambiziosi su cui sto lavorando.
+Progetto **Horizon Europe** per sistemi alimentari sostenibili. Uno dei progetti più ambiziosi su cui lavoriamo.
 
 ## Overview
 
@@ -19,70 +19,85 @@ SWITCH mira a trasformare i sistemi alimentari europei attraverso:
 ## Componenti Chiave
 
 ### Smart Counter
-Sistema di acquisizione dati nei punti vendita. Raccoglie informazioni su:
-- Prodotti acquistati
-- Preferenze dei consumatori
-- Pattern di consumo
-
+Sistema di acquisizione dati nei punti vendita.
 **Responsabile:** Marco Pizzuto
 
 ### Data Lake
-Piattaforma centralizzata per l'aggregazione e l'analisi dei dati. Integra:
-- Dati di produzione
-- Informazioni logistiche
-- Metriche ambientali
-- Feedback consumatori
-
+Piattaforma centralizzata per aggregazione e analisi dei dati.
 **Responsabile:** Marco Pizzuto
 
 ### Food Hub
-Centri di aggregazione locale per prodotti sostenibili. Funzionano come:
-- Hub logistici
-- Centri di formazione
-- Punti di connessione produttori-consumatori
+Centri di aggregazione locale — hub logistici, centri formazione, connessione produttori-consumatori.
+**San Sebastián** è uno dei Food Hub principali.
+
+### MyFreshFood (Mini-Orto)
+App sviluppata per il progetto: https://myfreshfood.vercel.app
+
+**Funzionalità:**
+- Profilo consumatore
+- Foto prodotti
+- Quiz su stime nutrizionali
+- Scan con spettrometro SCIO (valori Brix, umidità, etc.)
+- Confronto stime vs dati reali
+- Classifica partecipanti
+
+**Status:** 🟢 Feature complete per demo (Feb 2026)
+
+### Environmental Food Label (EFL)
+Sviluppo indicatori ambientali: carbon footprint, water footprint, land use, biodiversity.
+Collegato a progetto EFL/WWF (~80 Food Hub europei).
 
 ## Piattaforma pOsti
 
-Il progetto utilizza **pOsti** come piattaforma di gestione dati:
+Il progetto utilizza **pOsti** come base tecnologica:
 - Raccolta dati agroalimentari
 - Standardizzazione formati
 - API per integrazione
+- Blockchain per tracciabilità (EFL/WWF)
 
-## Environmental Food Label (EFL)
+## Meeting San Sebastián (Feb 2026)
 
-Sviluppo di indicatori ambientali standardizzati per:
-- Carbon footprint
-- Water footprint
-- Land use
-- Biodiversity impact
+Meeting **GA SWITCH** a San Sebastián, 3-5 Febbraio 2026.
+- Presentazione MyFreshFood + demo SCIO
+- Marco Pizzuto per Data Lake + Smart Counter
+- Discussione integrazione API SWITCH
+
+### Risultati del meeting
+- Demo MyFreshFood completata con successo
+- 22 prodotti nel database con dati SCIO
+- Integrazione API SWITCH con dizionario IT→EN (~300 alimenti)
+
+## Team
+
+| Ruolo | Persona |
+|-------|---------|
+| Coordinamento e architettura | Virgilio Maretto |
+| Smart Counter & Data Lake | Marco Pizzuto |
+| Collaborazione Food Hub | Partner europei |
 
 ## Timeline
 
 | Fase | Periodo | Status |
 |------|---------|--------|
 | WP1 - Setup | 2025 Q1-Q2 | ✅ Completato |
-| WP2 - Data Collection | 2025 Q3-Q4 | 🔄 In corso |
-| WP3 - Analysis | 2026 Q1-Q2 | ⏳ Pianificato |
+| WP2 - Data Collection | 2025 Q3-Q4 | ✅ Completato |
+| WP3 - Analysis | 2026 Q1-Q2 | 🔄 In corso |
 | WP4 - Deployment | 2026 Q3-Q4 | ⏳ Pianificato |
 
-## Team
+## Link
 
-- **Virgilio Maretto** - Coordinamento e architettura
-- **Marco Pizzuto** - Smart Counter & Data Lake
-- Partner europei vari
-
-## Note
-
-Il progetto rappresenta un'opportunità unica di applicare AI e data science alla sostenibilità alimentare su scala europea.
+- MyFreshFood: https://myfreshfood.vercel.app
+- MyFreshFood Admin: https://myfreshfood.vercel.app/admin/products
+- MyFreshFood Presentation: https://myfreshfood-presentation.vercel.app
+- App Viaggio: https://viaggio-san-sebastian.vercel.app
 
 ---
 
 ## 📚 Fonti
 
-- USER.md (profilo Virgilio Maretto)
-- Conversazioni WhatsApp (Gen-Feb 2026)
-- Documenti progetto Horizon Europe
-- 4th_CM+GA_SWITCH_Agenda.docx.pdf (iCloud/Mac-mini/)
-- Marco Pizzuto (responsabile Smart Counter/Data Lake)
+- USER.md
+- Meeting SWITCH (3-5 Feb 2026)
+- Marco Pizzuto
+- Documentazione Horizon Europe
 
 *I dati sono il nuovo suolo: vanno coltivati con cura.*

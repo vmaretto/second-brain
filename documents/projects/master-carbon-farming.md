@@ -1,12 +1,20 @@
 ---
 title: "Master Carbon Farming"
 date: "2025-09-01"
-tags: [formazione, carbon-farming, università, tuscia]
+tags: [formazione, carbon-farming, università, tuscia, master]
 ---
 
 # Master in Carbon Farming
 
-Master universitario di I livello presso l'Università della Tuscia. Direzione e coordinamento.
+Master universitario di I livello presso l'**Università della Tuscia**.
+**Periodo:** Marzo 2026 – Marzo 2027
+
+## Team
+
+| Ruolo | Persona |
+|-------|---------|
+| Direttore Operativo | Virgilio Maretto |
+| Direttore Scientifico | Prof. Riccardo Valentini |
 
 ## Obiettivo
 
@@ -16,73 +24,82 @@ Formare professionisti capaci di:
 - Gestire progetti di crediti di carbonio
 - Utilizzare tecnologie di monitoraggio
 
-## Struttura
+> ⚠️ C'è un enorme **gap di competenze** nel settore. Questo Master lo colma.
 
-### Moduli Principali
+## Partner Confermati
 
-1. **Fondamenti di Carbon Farming**
-   - Ciclo del carbonio
-   - Pratiche agricole rigenerative
-   - Agroforestry
-
-2. **Misurazione e Monitoraggio**
-   - Remote sensing
-   - Sensori IoT
-   - Modelli di stima
-
-3. **Certificazione e Mercato**
-   - Standard internazionali
-   - Registri carbonio
-   - Trading crediti
-
-4. **Tecnologie Digitali**
-   - Piattaforme di gestione (A-GRID)
-   - Blockchain per tracciabilità
-   - AI per ottimizzazione
-
-### Project Work
-
-Ogni studente sviluppa un progetto reale con aziende agricole partner.
-
-## Partner
-
-- Università della Tuscia (sede)
 - CREA
-- Aziende agricole del territorio
-- Enti certificatori
+- CMCC
+- WWF
+- ASviS
+- Confagricoltura
+- Ordine Agronomi
+- Value for Food + EY
+
+## Partner da Chiudere
+
+- 🔴 **Barilla** — in definizione
+- 🔴 **Arsial** — da contattare
+- 🔴 **Comune di Roma** — da contattare
+- 🔴 **Banca Intesa** — da finalizzare
+- 🔴 **Bonifiche Ferraresi** — da finalizzare
+- 🔴 **Ferrero** — da chiudere
+- 🔴 **Orta** — da chiudere
 
 ## Urgenze
 
 > ⚠️ **RS Management** — Convenzione da finalizzare URGENTE
+> ⚠️ **Conferenza Stampa 18 Feb** — fissare con Nascenzo/INAIL
 
-## Calendario
+## Struttura Didattica
 
-- **Iscrizioni:** Settembre - Novembre 2025
-- **Inizio lezioni:** Gennaio 2026
-- **Fine:** Dicembre 2026
+### Moduli Principali
 
-## Materiali
+1. **Fondamenti di Carbon Farming**
+   - Ciclo del carbonio, pratiche rigenerative, agroforestry
 
-Sviluppo contenuti per:
-- Slide interattive
-- Case study italiani
-- Tool di simulazione
-- Dataset di esempio
+2. **Misurazione e Monitoraggio**
+   - Remote sensing, sensori IoT, modelli di stima
+
+3. **Certificazione e Mercato**
+   - Standard internazionali, registri carbonio, trading crediti
+
+4. **Tecnologie Digitali**
+   - Piattaforme di gestione (A-GRID), blockchain, AI
+
+### Project Work
+Ogni studente sviluppa un progetto reale con aziende agricole partner.
+
+## News & Sviluppi Recenti
+
+- **3 Feb 2026:** EU adotta primo standard volontario carbon removals permanenti (CRCF) — direttamente rilevante per il curriculum
+- **4 Feb 2026:** Master Carbon Farming su Agenparl — invito stampa 18 febbraio
+- **Valentini** attivo con Fondazione Barilla — sinergie in corso
 
 ## Piattaforma A-GRID
 
-Il master utilizza A-GRID come piattaforma didattica e operativa:
+Il master utilizza **A-GRID** come piattaforma didattica e operativa:
 - Modelli di gestione carbonio
 - Simulazioni scenari
 - Dashboard di monitoraggio
+
+Startup con **Guido Mercati** e Prof. Valentini, focus carbon farming Emirati.
+
+## Calendario
+
+| Data | Evento |
+|------|--------|
+| 18 Feb 2026 | Conferenza stampa (da confermare) |
+| Mar 2026 | Inizio lezioni |
+| Mar 2027 | Fine Master |
 
 ---
 
 ## 📚 Fonti
 
-- USER.md (profilo Virgilio Maretto)
-- Conversazioni WhatsApp (Gen 2026)
-- Documenti Università della Tuscia
-- Prof. Riccardo Valentini (Direttore Scientifico)
+- USER.md, MEMORY.md
+- Conversazioni WhatsApp (Gen-Feb 2026)
+- Prof. Riccardo Valentini
+- News monitoring (Agenparl, EU Commission)
 
 *Il futuro dell'agricoltura è sotto terra: nel carbonio che tratteniamo.*
